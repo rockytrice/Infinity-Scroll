@@ -43,6 +43,9 @@ h1{
 .image-container img{
     width: 100%;
 }
+.image-description{
+     text-align: center;
+}
 
 /* media query for larger phones */
 
